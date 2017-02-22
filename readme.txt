@@ -3,3 +3,4 @@ Git is frede software distributed under the GPL
 Git has mutable index called stage
 Git tracks changes
 Creating a new branch is quick
+
